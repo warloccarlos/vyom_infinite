@@ -26,5 +26,6 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/vyom-bold.git](https://github.com/yourusername/vyom-bold.git)
+   git clone https://github.com/warloccarlos/vyom_infinite.git
    cd vyom-infinite
+   python app.py
