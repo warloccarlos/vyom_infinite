@@ -1,8 +1,6 @@
-# 🌌 VYOM BOLD
+# 🌌 VYOM INFINITE
 
-**Vyom Bold** (Sanskrit: *Vyom* meaning Sky/Infinite) is a minimalist, high-performance music player built with Python. It bridges the gap between celestial aesthetics and local audio playback, offering a seamless experience for music lovers who value both style and stability.
-
-![Vyom Bold Banner](https://your-placeholder-link.com/banner.png)
+**Vyom INFINITE** (Sanskrit: *Vyom* meaning Sky/Infinite) is a minimalist, high-performance music player built with Python. It bridges the gap between celestial aesthetics and local audio playback, offering a seamless experience for music lovers who value both style and stability.
 
 ## ✨ Key Features
 
@@ -29,4 +27,4 @@
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/yourusername/vyom-bold.git](https://github.com/yourusername/vyom-bold.git)
-   cd vyom-bold
+   cd vyom-infinite
