@@ -4,6 +4,9 @@
 
 ## ✨ Key Features
 
+
+<img width="225" height="446" align="right" alt="image" src="https://github.com/user-attachments/assets/0da98840-1d81-4661-8b0c-456b6daf4e61" />
+
 * **Infinite Interface:** A deep-space inspired dark theme with Neon Cyan accents.
 * **Smart Playback:** Supports MP3 and WAV files with automatic metadata and album art extraction.
 * **Playlist Management:** * **Drag & Add:** Easily upload entire folders or single tracks.
@@ -14,7 +17,12 @@
 * **Volume Precision:** Smooth slider control for perfect audio leveling.
 * **Stability First:** Built with a decoupled audio engine to prevent UI freezing.
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 🚀 Getting Started
 
